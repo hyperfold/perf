@@ -1,6 +1,13 @@
 # perf
 hyperfold profiler
 
+#### setup
+```
+git clone https://github.com/hyperfold/perf
+cd perf
+pip install .
+```
+
 #### Usage 
 ```python3
 @profile()
