@@ -5,6 +5,7 @@ hyperfold profiler
 ```
 git clone https://github.com/hyperfold/perf
 cd perf
+pip install -r requirements.txt
 pip install .
 ```
 
